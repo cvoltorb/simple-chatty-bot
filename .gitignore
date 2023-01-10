@@ -1,6 +1,7 @@
 .idea
 *.yaml
 *.txt
+*.py
 
 Topics/
 Simple Chatty Bot/Chatty Bot welcomes you/
