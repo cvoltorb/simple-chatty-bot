@@ -1,11 +1,10 @@
 .idea
 *.yaml
 *.txt
-/Topics
-/Topics/*
-/Simple Chatty Bot/Chatty Bot welcomes you
-/Simple Chatty Bot/Guess the age
-/Simple Chatty Bot/Learning numbers
-/Simple Chatty Bot/Multiple choice
-/Simple Chatty Bot/Print your name
+Topics/
+/Simple Chatty Bot/Chatty Bot welcomes you/
+/Simple Chatty Bot/Guess the age/
+/Simple Chatty Bot/Learning numbers/
+/Simple Chatty Bot/Multiple choice/
+/Simple Chatty Bot/Print your name/
 /Simple Chatty Bot/*.yaml
