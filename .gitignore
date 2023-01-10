@@ -3,5 +3,5 @@
 *.txt
 
 Topics/
-Simple Chatty Bot/*
-!/Simple Chatty Bot/task/main.go
+Simple Chatty Bot/
+!Simple Chatty Bot/task/
