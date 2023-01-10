@@ -1,7 +1,0 @@
-.idea
-*.yaml
-*.txt
-
-Topics/
-Simple Chatty Bot/
-!Simple Chatty Bot/task/main.go
