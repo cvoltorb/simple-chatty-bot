@@ -57,9 +57,6 @@ start:
 	default:
 		fmt.Println("Please, try again.")
 		goto start
-	}
-	//for {
-	//}
 
 	fmt.Println("Completed, have a nice day!")
 }
